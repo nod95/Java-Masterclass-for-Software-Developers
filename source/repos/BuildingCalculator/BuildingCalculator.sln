@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingCalculator", "BuildingCalculator\BuildingCalculator.csproj", "{BD8CB6CC-7940-42C2-8DA4-8A1D96BDDC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8CB6CC-7940-42C2-8DA4-8A1D96BDDC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8CB6CC-7940-42C2-8DA4-8A1D96BDDC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8CB6CC-7940-42C2-8DA4-8A1D96BDDC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8CB6CC-7940-42C2-8DA4-8A1D96BDDC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E4F473-0FBB-4875-BB94-6B8455E6C744}
+	EndGlobalSection
+EndGlobal
